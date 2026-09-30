@@ -1,2 +1,17 @@
 # itis-informatica-fondi-progetti
-esercizi c++ realizzati da me per risolvere problemi comuni che ho riscontrato durante i miei ultimi 2 anni di superiori, progetti semplici ma utili.
+
+Esercizi C++ realizzati da me durante gli ultimi 2 anni di superiori.
+Progetti semplici ma utili - preparazione L-31 Informatica Università di Cassino.
+
+## Progetti
+
+### 1. goniometria.cpp
+Calcola cos, sin, posizione punto P(xP,yP) e quadrante.
+Gestisce angoli >360° come 810°, riconosce punti A,B,C,D sugli assi.
+
+**Tecnologie:** C++ , cmath
+
+## Obiettivo
+Portfolio per Università e lavoro da remoto come programmatrice.
+
+Autore: Studente 4a ITIS Fondi - 2026
